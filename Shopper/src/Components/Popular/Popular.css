@@ -3,7 +3,7 @@
     align-items: center;
     gap: 16px;
     flex-direction: column;
-    height: 90vh;
+    /* height: 90vh; */
 
 }
 .popular h1{
@@ -22,4 +22,15 @@
     margin-top: 50px;
     display: flex;
     gap: 30px;
+}
+
+@media (max-width: 768px) {
+    .popular-item{
+      display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-direction: column;
+    /* height: 90vh; */
+
+}
 }

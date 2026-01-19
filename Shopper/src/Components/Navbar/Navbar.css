@@ -11,7 +11,7 @@
 }
 .nav-logo p{
     color: #171717;
-    font-size: 38px;
+    font-size: 32px;
     font-weight: 600;
 }
 .nav-menu{
@@ -79,3 +79,10 @@
 }
 
 
+@media (max-width: 768px) {
+    .navbar{
+        width:80%;
+        background-color: red;
+
+    }
+}

@@ -23,5 +23,19 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     margin-top: 50px;
-    gap : 30px
+    gap : 30px;
+}
+.collections img{
+    border-radius: 15px;
+
+}
+
+@media (max-width: 768px) {
+    .collections{
+          display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-direction: column;
+    }
+    
 }

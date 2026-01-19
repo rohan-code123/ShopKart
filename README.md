@@ -1,6 +1,6 @@
 # My Project Name
 
-🔗 **Live Demo:** [Click Here](http://localhost:5173/)
+🔗 **Live Demo:** [Click Here](shopkart-frontend.netlify.app)
 
 ## Features
 - Feature 1
